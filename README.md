@@ -22,18 +22,19 @@
       <td><h4>Языки</h4></td>
       <td>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true&perline=4" alt="Python" height="45">
-        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45"> -->
+        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45"> -->
       </td>
     </tr>
     <tr>
       <td><h4>Бекенд</h4></td>
       <td>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&titles=true&perline=5" alt="FastAPI" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=django&titles=true&perline=5" alt="Django" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aiogram&titles=true&perline=5" alt="Aiogram" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true&perline=5" alt="Flask" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&titles=true&perline=10" alt="FastAPI" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=django&titles=true&perline=10" alt="Django" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aiogram&titles=true&perline=10" alt="Aiogram" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true&perline=10" alt="Flask" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=chi&titles=true&perline=10" alt="Chi" height="45">
       </td>
     </tr>
     <tr>
